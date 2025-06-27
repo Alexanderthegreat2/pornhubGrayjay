@@ -1,4 +1,4 @@
-const URL_BASE = "https://195.3.222.15/__cpi.php?s=UkQ2YXlSaWJuc3ZoeGR2dG04WW9LZ0ludDBpbm1FSktUd05zWmJvQ0ZETWFoQkEzaTRnekxTMnlpaDltNTYyMXoxOFJHT2tzWDVrUzkxMHBRR3dKZUdUY1p6dURxZnpycGZjWjFuWkV3Mkk9&r=aHR0cHM6Ly8xOTUuMy4yMjIuMTUvP19fY3BvPWFIUjBjSE02THk5M2QzY3VjRzl5Ym1oMVlpNWpiMjA%3D&__cpo=1";
+const URL_BASE = "https://www.pornhub.com";
 
 const PLATFORM_CLAIMTYPE = 3;
 
