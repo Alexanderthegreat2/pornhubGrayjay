@@ -1,8 +1,8 @@
-const URL_BASE = "https://www.pornhub.com";
-
+const PROXY_PREFIX = "https://croxyproxy.com/?";
+const URL_BASE      = "https://www.pornhub.com";
 const PLATFORM_CLAIMTYPE = 3;
 
-const PLATFORM = "PornHub";
+const PLATFORM = "PornHPornHH;
 
 var config = {};
 // session token
